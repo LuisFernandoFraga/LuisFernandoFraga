@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <!-- views counter -->
   <img src="https://komarev.com/ghpvc/?username=LuisFernandoFraga&style=flat-square&color=blue" alt="profile-views-badge"/>
   <h1>
-    hey there
+    Hey There!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -47,9 +47,12 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoFraga&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFernandoFraga&show_icons=true&theme=gruvbox) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFernandoFraga&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFernandoFraga&show_icons=true&theme=vision-friendly-dark)<br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LuisFernandoFraga&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<img src="https://drive.google.com/file/d/1T2enWYGKs_yoi9ywWu_ZIJpQiAOjwaDe/view?usp=sharing" width="40" height="40"/>&nbsp;
 
 ---
 
