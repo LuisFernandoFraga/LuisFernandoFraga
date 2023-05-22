@@ -52,8 +52,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisFernandoFraga&show_icons=true&theme=vision-friendly-dark)<br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LuisFernandoFraga&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<img src="https://drive.google.com/file/d/1T2enWYGKs_yoi9ywWu_ZIJpQiAOjwaDe/view?usp=sharing" width="40" height="40"/>&nbsp;
-
 ---
 
 ![Snake animation](https://github.com/LuisFernandoFraga/LuisFernandoFraga/blob/output/github-contribution-grid-snake.svg)
