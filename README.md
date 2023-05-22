@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--  -->
+
+[![MasterHead](https://github.com/LuisFernandoFraga/LuisFernandoFraga/blob/images/banner.png)](https://github.com/LuisFernandoFraga/LuisFernandoFraga/blob/images/banner.png)
+
 <!-- gif image -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/>
