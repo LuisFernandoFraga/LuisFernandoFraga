@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔧 I'm currently working on a personal GameDev project. <br>📚 I'm currently learning TypeScript and Blender!<br>🚀 I'm curious and WILL LEARN anything that catches my eye 'till the point Iget good at it!
+🔧 I'm currently working on a personal GameDev project. <br>📚 I'm currently learning TypeScript and Blender!<br>🚀 I'm curious and WILL LEARN anything that catches my eye 'till the point I get good at it!
 
 
 ## 🌐 Socials:
